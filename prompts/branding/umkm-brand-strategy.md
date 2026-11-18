@@ -66,3 +66,22 @@ Provide five practical branding actions suitable for the business.
 ## Final Objective
 
 Create a brand strategy that is clear, relevant, realistic, and actionable for an Indonesian small business.
+
+## USP Validation Rules
+
+When developing a Unique Selling Proposition (USP):
+
+1. Separate proposed USP from validated USP.
+2. Do not automatically treat a family recipe, product feature, or business history as a proven competitive advantage.
+3. Explain what makes the proposed USP potentially different.
+4. Identify what customer research or competitor analysis is needed to validate it.
+5. If evidence is insufficient, clearly label the USP as a preliminary hypothesis.
+6. Ensure all USP recommendations remain consistent throughout the entire report.
+
+Always distinguish:
+- Confirmed business facts.
+- Proposed brand advantages.
+- Unvalidated assumptions.
+
+Never present an unvalidated USP as a proven market advantage.
+
